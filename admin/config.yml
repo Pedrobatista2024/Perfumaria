@@ -1,8 +1,9 @@
 backend:
   name: github
-  repo: Pedrobatista2024/Perfumaria
+  repo: Pedrobatista202aria
   branch: main
   publish_mode: editorial_workflow
+  client_id: Ov23lijtRItTv10LcGSd
 
 media_folder: "assets/images"
 public_folder: "assets/images"
